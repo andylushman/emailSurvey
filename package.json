@@ -1,16 +1,11 @@
 {
-<<<<<<< HEAD
   "name": "emailsurvey",
-=======
-  "name": "server",
->>>>>>> ca02b98f1db7ac3dfcac047f044c97416c709901
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andylushman/emailSurvey.git"
@@ -21,10 +16,6 @@
     "url": "https://github.com/andylushman/emailSurvey/issues"
   },
   "homepage": "https://github.com/andylushman/emailSurvey#readme",
-=======
-  "author": "",
-  "license": "ISC",
->>>>>>> ca02b98f1db7ac3dfcac047f044c97416c709901
   "dependencies": {
     "express": "^4.16.4"
   }
