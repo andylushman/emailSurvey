@@ -1,0 +1,22 @@
+{
+  "name": "emailsurvey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andylushman/emailSurvey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andylushman/emailSurvey/issues"
+  },
+  "homepage": "https://github.com/andylushman/emailSurvey#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
