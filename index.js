@@ -7,3 +7,5 @@ app.get("/", (req, res) => {
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
+
+//Deployed: https://email-survey123.herokuapp.com/
